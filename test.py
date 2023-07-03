@@ -1,3 +1,3 @@
 import os
 
-print('Successfull test')
+print('Successful test')
